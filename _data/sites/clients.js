@@ -27,14 +27,6 @@ module.exports = {
     "https://bluecordfirearms.com",
     "https://brandelmanor.org",
     "https://brasscityharvestwaterbury.com",
-    "https://budrcannabis.com",
-    "https://candsbenefits.com",
-    "https://careplus.att.com",
-    "https://carmodylaw.com",
-    "https://cat5movie.com",
-    "https://charteroakcommunities.org",
-    "https://compassdiversified.com",
-    "https://covenantcareathome.org",
-    "https://covhomechicago.org"
+    "https://budrcannabis.com"
 	]
 };
